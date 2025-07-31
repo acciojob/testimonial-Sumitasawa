@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+ body {
+      font-family: Arial, sans-serif;
+    }
+.testimonials{
+	margin:10px;
+	padding:30px;
+	background-color: #f5f5f5;
+}
+div{
+	padding:20px;
+	background-color:white;
+	font-size:10px;
+	border:1px solid #ddd;
+}
+.author{
+	font-family:italic;
+	text-align:right;
+}
+	
