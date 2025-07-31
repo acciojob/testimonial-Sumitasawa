@@ -13,10 +13,9 @@ div {
   background-color: white;
   font-size: 10px;
   border: 1px solid #ddd;
-	margin:10px;
 }
 
 .author {
   font-style: italic;
-  text-align: right;
+  float: right;
 }
