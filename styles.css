@@ -16,6 +16,6 @@ div {
 }
 
 .author {
-  font-style: italic; /* corrected from 'font-family: italic' */
-  text-align: right;
+  font-style: italic;
+  float: right;
 }
